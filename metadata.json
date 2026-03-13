@@ -1,0 +1,5 @@
+{
+  "name": "Bot Log Analyzer",
+  "description": "Analyzes SalesIQ chatbot session payloads to identify routing paths, results, and failure reasons using Gemini AI.",
+  "requestFramePermissions": []
+}
